@@ -2,12 +2,13 @@
 
 This tool takes a Reddit profile URL, scrapes recent posts and comments, and creates a user persona. It includes sentiment analysis, personality guess (MBTI-style), and favorite interests with source citations.
 
-##  Files Included
 
-- `reddit_persona_generator.py`: Main script
-- `persona_kojied.txt`: Example persona
-- `persona_Hungry-Move-6603.txt`: Example persona
-- `README.md`: You're reading it!
+
+ ## Installation
+
+1. Clone the repository
+2. Make sure Python 3.7+ is installed
+3. Run: pip install requests 
 
 ##  How to Use
 
