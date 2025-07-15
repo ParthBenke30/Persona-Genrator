@@ -27,8 +27,8 @@ This tool takes a Reddit profile URL, scrapes recent posts and comments, and cre
 The script will create two files in the same folder:
 
 persona_<username>.txt
-
 persona_<username>.html
+
 
 | File/Folder                    | Description                                               |
 | ------------------------------ | --------------------------------------------------------- |
